@@ -52,13 +52,6 @@ These can be installed using the provided `requirements.txt` file.
 - Matplotlib
 - Scikit-learn
 
-## Results
-![Screenshot 2024-07-04 092811](https://github.com/UppuluriKalyani/Celebrity_Face_Recognition/assets/105410881/bc82af27-1dd3-4485-8a6a-e582236414b3)
-![Screenshot 2024-07-04 092713](https://github.com/UppuluriKalyani/Celebrity_Face_Recognition/assets/105410881/0874f96a-e370-4a32-b0eb-8708f3678358)
-![Screenshot 2024-07-04 092752](https://github.com/UppuluriKalyani/Celebrity_Face_Recognition/assets/105410881/33743cb9-ca2a-41f4-bbff-a4db86447f6f)
-
-
-
 ## License
 
 This project is licensed under the MIT License.
